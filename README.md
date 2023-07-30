@@ -1,4 +1,4 @@
-![logo]([https://www.canva.com/design/DAFqFeQZi5U/BDHo8IGkX4uMccQJgZm3KQ/edit?utm_content=DAFqFeQZi5U&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://github.com/CodeFusion7/CodeFusion7/blob/main/Banner.png))
+![logo](https://github.com/CodeFusion7/CodeFusion7/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Code Fusion</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
